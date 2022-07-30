@@ -1,0 +1,193 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    width: 100%;
+    height:700px;
+    
+
+    
+}
+.netflixbody{
+    width:100%;
+    height:700px;
+
+}
+.head{
+    width: 100%;
+    height: 100px;
+    position: absolute;
+}
+.logo{
+    width: 200px;
+    height: 70px;
+    margin-left: 45px;
+    margin-top:-48px;
+
+}
+.signin{
+    width: 108px;
+    height:58px;
+    background: red;
+    border: red;
+    margin-left: 1200px;
+    margin-top: 35px;
+    color: white;
+    
+}
+.center{
+    width: 650px;
+    height:250px;
+    margin-top: -455px;
+    margin-left:400px;
+}
+.text{
+    color: white;
+    padding-left:70px;
+    font-size:3.125rem;
+    
+}
+.text1{
+    color: white;
+    font-size:1.625rem;
+    padding-left:60px;
+    
+
+}
+.text2{
+    color: white;
+  
+}
+    
+.inputtype{
+    width: 500px;
+    height: 55px;
+    padding-left: 11px;
+    margin-left: -430px;
+}
+.label{
+    margin-left: 430px;
+    position: absolute;
+    width: 55px;
+}
+.lastbutton{
+    margin-top: -95px;
+    margin-left: -1113px;
+    height: 55px;
+}
+.line{
+    width: 100%;
+    height:10px;
+    background:rgb(122, 109, 109);
+}
+.black{
+    width: 100%;
+    height:400px;
+    background:black;
+}
+.blacktext{
+    width: 50%;
+    height: 200px;
+    float: left;
+    color: white;
+    margin-top:50px;
+    font-size:25px;
+   
+}
+.blackimg{
+    width: 50%;
+    height: 200px;
+    float: left;
+    margin-top: 50px;
+}
+
+.anim{
+    width:400px;
+    height: 300px;
+
+}
+.question{
+    width: 100%;
+    height: 850px;
+    background: black;
+}
+.tite{
+    width:490;
+    height: 100px;
+    color: white;
+    padding-top: 1px;
+    margin-left: 400px;
+
+
+}
+.qus{
+    width:800px;
+    background: rgb(105, 105, 105);
+    height:65px;
+    color: white;
+    margin-left:250px;
+    padding-top:-5px;
+    padding-left: 15px;
+    font: 1em sans-serif;
+    font-size: 14px;
+
+
+}
+.plues{
+    padding-left: 700px;
+    margin-top: -48px;
+    font-size: 50px;
+}
+.qusbutton{
+    padding-left: 75px;
+}
+.lasthead{
+    width: 300px;
+    height: 38px;
+    margin-top: -23px;
+    padding-left: 162px;
+    color:rgb(150, 140, 140);
+    margin-left: 104px;
+}
+.last{
+    padding-top: 20px;
+}
+.first{
+    width:200px;
+    height:300px;
+    float: left;
+    margin-left:250px;
+    float: left;
+    color:rgb(150, 140, 140)
+
+}
+.second{
+    width:200px;
+    height:300px;
+    float: left;
+    color:rgb(150, 140, 140)
+
+
+}
+.third{
+    width:200px;
+    height:300px;
+    float: left;
+    color:rgb(150, 140, 140)
+
+}
+.fourth{
+    width:200px;
+    height:300px;
+    float: left;
+    color:rgb(150, 140, 140)
+} 
+.label2{
+    width: 300px;
+    height: 250px;
+    margin-left:770px;
+}
+.qusbutton2{
+    margin-left: 380px;
+}
